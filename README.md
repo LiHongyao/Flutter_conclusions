@@ -4,23 +4,20 @@
 
   它最大的特点就是 **跨平台** 和 **高性能**。
 
-- Dart 是由 Google，在2011年开发的计算机编程语言，它可以被用于 Web、服务器、移动应用和物联网等多个领域。号称要取代 JavaScript。
+- Dart 是由 Google，在2011年开发的计算机编程语言，它可以被用于 Web、服务器、移动应用和物联网等多个领域。号称要取代 js。
 
 - 资源网站
 
-  - 官网
+  - 官网：https://flutter.dev/
 
-    - https://flutter.dev/
-  - GitHub
+  - GitHub：https://github.com/flutter/flutter
   
-    - https://github.com/flutter/flutter
   - 中文网
-
+  
     - https://flutterchina.club/
 
     - https://flutter.cn/
-  - 工具包
-  - https://pub.flutter-io.cn/
+- 工具包：https://pub.flutter-io.cn/
 
 > 提示：如果没有任何 Dart 语言的基础，不建议直接学习 Flutter。建议先学习Dart语言的基本语法。
 
@@ -37,7 +34,7 @@
 ```json
 {
     PUB_HOSTED_URL:"https://pub.flutter-io.cn"
-	FLUTTER_STORAGE_BASE_UR:"https://storage.flutter-io.cn"
+  	FLUTTER_STORAGE_BASE_UR:"https://storage.flutter-io.cn"
 }
 ```
 
